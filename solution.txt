@@ -132,5 +132,5 @@ https://grafana.com/grafana/node-exporter-dashboard
 - провести дополнительный анализ серверных логов в разрезе за 48h
 - проверить конфигурацию скрипта machine.pl
 - проверить доступность корневого ресурса / (в т.ч. права доступа)
-- добавить favicon.ico
+- добавить favicon.ico и read-excel-file.html
 
